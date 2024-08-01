@@ -1,6 +1,6 @@
 # Stock Analysis Project
 
-This project analyzes stock prices based on sentiment analysis of news headlines. It uses OpenAI's GPT for sentiment analysis and evaluates investment strategies.
+This project analyzes stock prices based on sentiment analysis of news headlines. It uses GPT4o-mini for sentiment analysis and evaluates investment strategies.
 
 ## Directory Structure
 ```
